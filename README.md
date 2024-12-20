@@ -30,8 +30,7 @@ This project implements an adversarial testing framework for evaluating the robu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/jailbreaking-starter.git
-   cd jailbreaking-starter
+   git clone [https://github.com/your-username/jailbreaking-starter.git](https://github.com/phantom2810/Jailbreak-Simulator-Adversarial-Testing-for-LLMs.git)
    ```
 
 2. Install dependencies:
